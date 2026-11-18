@@ -1,4 +1,4 @@
-package co.edu.sena.adso.dulceria.InicioController;
+package co.edu.sena.adso.dulceria.controller;
 import java.time.LocalTime;
  
 import org.springframework.stereotype.Controller;
